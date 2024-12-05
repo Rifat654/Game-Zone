@@ -203,6 +203,7 @@ img {
     width: 22px;
     height: 130px;
     top: 50%;
+    position: absolute;
   }
   .icon i {
     font-size: 13px;
