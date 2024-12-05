@@ -139,6 +139,9 @@ img {
     font-size: 25px;
     z-index: 999;
   }
+  .icon {
+    top: 50%;
+  }
   .img,
   img {
     z-index: 999;
