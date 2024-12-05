@@ -10,7 +10,7 @@
 :root {
   --text: #ffff;
   --bg: #000000f5;
-  --org: orange;
+  --hover: rgb(228, 120, 52);
 }
 /*------------- Header section start-----------------*/
 .header {
@@ -70,7 +70,7 @@ a {
 }
 /* ----------- text animation  ------------ */
 .auto-type {
-  color: rgb(228, 120, 52);
+  color: var(--hover);
   font-weight: 500;
 }
 .text p {
